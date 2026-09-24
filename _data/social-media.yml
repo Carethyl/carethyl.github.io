@@ -1,0 +1,32 @@
+# Get Icons from  : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
+email:
+  url   : "mailto:"
+  icon  : fas fa-envelope
+  color : ffffff
+
+github-primary:
+  url   : https://www.github.com/
+  icon  : fab fa-github
+  color : ffffff
+
+github-secondary:
+  url   : https://www.github.com/
+  icon  : fab fa-github
+  color : ffffff
+
+gitlab:
+  url   : https://www.gitlab.com/
+  icon  : fab fa-gitlab
+  color : fca326
+
+linkedin:
+  url   : https://www.linkedin.com/in/
+  icon  : fab fa-linkedin-in
+  color : 007bb5
+
+youtube:
+  url   : https://www.youtube.com/
+  icon  : fab fa-youtube
+  color : ff0000
